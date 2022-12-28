@@ -3,12 +3,8 @@
 Style.css
 =============
 
-Author:  Gino Aliaj
-Template: Cloudify - Web Hosting HTML Template
-Version: 1.2
 
-Author URI: gnodesign.com
-***************************/
+
 
 
 /*------------------------------------------------------------------
@@ -123,7 +119,7 @@ body.mfp-zoom-out-cur{
 }
 
 a {
-    color: #46b09b;
+    color: #e47208;
     -webkit-transition: all .3s ease;
     -moz-transition: all .3s ease;
     -ms-transition: all .3s ease;
@@ -922,7 +918,7 @@ img {
 }
 
 .cd-user-modal-container .cd-switcher a:hover {
-    background: #5bbc2e;
+    background: #2e5bbc;
 }
 
 .cd-user-modal-container .cd-switcher a.selected {
@@ -1012,7 +1008,7 @@ img {
 }
 
 .cd-form input.has-border:focus {
-    border-color: #46b09b;
+    border-color: #5146b0;
     outline: none;
 }
 
@@ -1774,7 +1770,7 @@ video.video-bg {
 
 #about {
     background: /*url('../images/about.svg')*/
-    #46b09b no-repeat 100% 100%;
+    #062af5 no-repeat 100% 100%;
     background-size: 40%;
     overflow: hidden;
 }
@@ -2527,7 +2523,7 @@ section.buy-now h2 {
 -------------------------------------- */
 
 footer {
-    background: #083d32;
+    background: #1240d8;
     position: relative;
 }
 
@@ -2544,7 +2540,7 @@ footer {
 }
 
 .top-footer #contact a:hover {
-    color: #46b09b !important;
+    color: #4d46b0 !important;
 }
 
 .top-footer #contact a:before {
@@ -2589,7 +2585,7 @@ footer {
 }
 
 .contact-form .error {
-    color: #ff0000;
+    color: #a6b3ff;
 }
 
 .contact-form .input-box {
@@ -2611,7 +2607,7 @@ footer {
 .contact-form .textarea-box:active,
 .contact-form .textarea-box:focus {
     color: #f6f6f6;
-    border: 1px solid #46b09b;
+    border: 1px solid #0914b6;
 }
 
 .contact-form button {
@@ -2623,7 +2619,7 @@ footer {
 }
 
 .contact-form button:hover {
-    color: #46b09b;
+    color: #0914b6;
 }
 
 
@@ -3568,9 +3564,9 @@ section.testimonials-page2 {
 }
 
 .pricing-table1 .pricing-plan {
-    background: #fff;
+    background: rgb(240, 236, 236);
     text-align: center;
-    border-right: 1px solid #ecf3f6;
+    border-right: 1px solid #bec2c4;
 }
 
 .pricing-table1 .pricing-plan:first-child {
@@ -3693,17 +3689,17 @@ section.testimonials-page2 {
 /* ---- Starter Plan ---- */
 
 .pricing-table1 #starter.pricing-plan .price {
-    background: #46b09b;
+    background: #1c32f7;
 }
 
 .pricing-table1 #starter.pricing-plan .plan-type span {
-    color: #46b09b;
+    color: #2a3ef5;
     background: #fff;
-    border: 2px solid #46b09b;
+    border: 2px solid #2420f8;
 }
 
 .pricing-table1 #starter.pricing-plan .btn-blue:hover {
-    color: #46b09b !important;
+    color: #1a31fa !important;
 }
 
 
@@ -3754,7 +3750,7 @@ section.testimonials-page2 {
 /* ---- Enterprise Plan ---- */
 
 .pricing-table1 #enterprise.pricing-plan .price {
-    background: #156c5b;
+    background: #060af5;
 }
 
 .pricing-table1 #enterprise.pricing-plan .plan-type span {

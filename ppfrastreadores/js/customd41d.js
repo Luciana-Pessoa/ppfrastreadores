@@ -3,12 +3,8 @@
 Custom.js
 =============
 
-Author:  Gino Aliaj
-Template: Cloudify - Web Hosting HTML Template
-Version: 1.2
 
-Author URI: gnodesign.com
-***************************/
+
 
 
 (function ($) {
